@@ -1,0 +1,5 @@
+//
+// File created by:  irun
+// Do not modify this file
+
+s1::(13Jun2024:11:10:03):( irun vendingMachine.v testbench.v -access +rwc -gui )
